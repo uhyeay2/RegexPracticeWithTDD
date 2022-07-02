@@ -1,0 +1,12 @@
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\bin\Debug\net6.0\RegexPractice.deps.json
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\bin\Debug\net6.0\RegexPractice.dll
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\bin\Debug\net6.0\RegexPractice.pdb
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\RegexPractice.csproj.AssemblyReference.cache
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\RegexPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\RegexPractice.AssemblyInfoInputs.cache
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\RegexPractice.AssemblyInfo.cs
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\RegexPractice.csproj.CoreCompileInputs.cache
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\RegexPractice.dll
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\refint\RegexPractice.dll
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\RegexPractice.pdb
+C:\Users\daguirre\source\repos\RegexPractice\RegexPractice\obj\Debug\net6.0\ref\RegexPractice.dll
